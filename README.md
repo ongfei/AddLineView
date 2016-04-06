@@ -1,2 +1,3 @@
 # AddLineView-
-AddLineView(给视图添加边线)
+AddLineView
+view的类目 常用的功能
